@@ -4,7 +4,7 @@
 
 Displays a high resolution model of the specificed area using three-geo, a three.js based geographic visualization library. The geometry of the terrain is based on the RGB-encoded DEM (Digital Elevation Model) provided by the Mapbox Maps API.
 
-[Demo](https://vuevio.com/)
+[Demo](http://geobox-app.s3-website-us-east-1.amazonaws.com/)
 
 ## Goal
 
